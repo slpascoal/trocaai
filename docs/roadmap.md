@@ -16,6 +16,7 @@ Cada item abaixo foi classificado com três critérios:
 
 ### 1. Catálogo de álbuns
 
+- Status: concluído
 - Prioridade: P0
 - Viabilidade: alta
 - Dependência: nenhuma
